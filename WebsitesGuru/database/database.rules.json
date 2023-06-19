@@ -1,0 +1,7 @@
+{
+    "rules": {
+      "posts": {
+        ".indexOn": "title"
+      }
+    }
+  }
